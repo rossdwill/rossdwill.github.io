@@ -13,9 +13,7 @@
         <condition name = "where" value = "Beauty">In the eye of the beholder</condition>
         <condition name = "where" value = "Keynsham">I do not know where Keynsham is</condition>
         <condition name = "where" value = "Bot">I do not have an answer for that</condition> 
-        <condition name = "where" value = "Bristol">In the South-West of England</condition>
-    
-    
+        
     </template>
 </category>	
 
@@ -87,7 +85,7 @@
 <category>
       <pattern>WHERE IS IT</pattern>
       <that>LONDON IS A CITY</that>
-      <template>In the South-West of England</template>
+      <template>Somewhere east of Bristol</template>
 </category>
 
 <category>
