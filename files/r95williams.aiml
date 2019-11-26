@@ -68,27 +68,27 @@
 
 <category>
       <pattern>WHY NOT</pattern>
-      <that>I do not know what the population of * is</that>
+      <that>I DO NOT KNOW WHAT THE POPULATION OF * IS</that>
       <template>Because it is too hard to count the residents of <thatstar/></template>
   </category>
 
 <category>
     <pattern>WHY NOT</pattern>
-        <that>I do not know where Keynsham is</that>
+        <that>I DO NOT KNOW WHERE KEYNSHAM IS</that>
     <template>Because I do not have a category to connect me to a mapping service</template>
 </category>
 
 <category>
       <pattern>WHERE IS IT</pattern>
-      <that>Bristol is a city.</that>
+      <that>BRISTOL IS A CITY</that>
       <template>In the South-West of England</template>
 </category>
 
 <category>
       <pattern>WHERE IS IT</pattern>
-      <that>London is a city.</that>
-      <template>Somewhere east of Bristol</template>
-  </category>
+      <that>LONDON IS A CITY</that>
+      <template>In the South-West of England</template>
+</category>
 
 <category>
     <pattern>*</pattern>
